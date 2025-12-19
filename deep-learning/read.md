@@ -102,15 +102,15 @@ jupyter notebook 05_EDA_Avançado.ipynb
 
 ## 📊 Arquivos Gerados
 
-| Arquivo | Descrição | Tamanho Aprox. |
-|---------|-----------|----------------|
-| `processos_tjac_raw.json` | Dados brutos da API DataJud | ~2 MB |
-| `processos_tjac_completo.csv` | Dataset limpo com todas as variáveis | ~500 KB |
-| `processos_tjac_com_genero.csv` | Dataset com classificação de gênero | ~600 KB |
-| `dicionario_nomes_classificacao.csv` | Dicionário de 100k+ nomes com gênero | ~3 MB |
-| `processos_tjac_completo_nlp.csv` | Dataset final com análise NLP | ~700 KB |
-| `processos_tjac_completo_nlp.xlsx` | Versão Excel do dataset final | ~800 KB |
-| `LEGENDA_NLP.txt` | Documentação das variáveis NLP | 2 KB |
+| Arquivo | Descrição |
+|---------|-----------|
+| `processos_tjac_raw.json` | Dados brutos da API DataJud |
+| `processos_tjac_completo.csv` | Dataset limpo com todas as variáveis |
+| `processos_tjac_com_genero.csv` | Dataset com classificação de gênero |
+| `dicionario_nomes_classificacao.csv` | Dicionário de 100k+ nomes com gênero |
+| `processos_tjac_completo_nlp.csv` | Dataset final com análise NLP |
+| `processos_tjac_completo_nlp.xlsx` | Versão Excel do dataset final |
+| `LEGENDA_NLP.txt` | Documentação das variáveis NLP |
 
 ---
 
