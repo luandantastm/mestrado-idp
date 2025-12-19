@@ -32,7 +32,6 @@ projeto-tjac/
 │
 ├── requirements.txt               # Dependências do projeto
 ├── README.md                      # Este arquivo
-└── RELATORIO_TECNICO.md          # Relatório técnico completo
 ```
 
 ---
