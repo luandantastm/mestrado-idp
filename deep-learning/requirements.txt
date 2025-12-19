@@ -1,0 +1,29 @@
+# Coleta de dados
+requests
+selenium
+beautifulsoup4
+lxml
+
+# Dados
+pandas
+numpy
+openpyxl
+
+# NLP
+transformers
+torch
+textstat
+
+# Visualização
+matplotlib
+seaborn
+scipy
+
+# Jupyter
+jupyter
+jupyterlab
+ipykernel
+notebook
+
+# Utilitários
+tqdm
