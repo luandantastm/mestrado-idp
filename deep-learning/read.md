@@ -137,33 +137,7 @@ jupyter notebook 05_EDA_Avançado.ipynb
 - **756 sentenças analisadas**
 
 ### 5. **Análise Estatística**
-- Testes Chi-quadrado
-- Testes Mann-Whitney
 - Comparações: Gênero × Sentimento × Complexidade × Resultado
-
----
-
-## 📈 Principais Resultados
-
-- **Sentimento:** 87.6% das sentenças são neutras (esperado em textos jurídicos)
-- **Complexidade:** 70.5% alta complexidade (score Flesch médio: 22.8)
-- **Gênero dos juízes:** 63.3% feminino vs 36.6% masculino
-- **Diferenças estatísticas:** Documentadas no relatório técnico completo
-
----
-
-## 📝 Documentação Adicional
-
-- **Relatório Técnico:** Ver `RELATORIO_TECNICO.md`
-- **Legenda NLP:** Ver `LEGENDA_NLP.txt` (gerado automaticamente)
-- **Apresentação:** Slides disponíveis em `apresentacao/`
-
----
-
-## 👥 Equipe
-
-- **[Seu Nome]** - Análise técnica, implementação, modelagem
-- **[Nome do Parceiro]** - Escopo, pesquisa, comunicação
 
 ---
 
@@ -176,28 +150,8 @@ jupyter notebook 05_EDA_Avançado.ipynb
 
 ---
 
-## ⚖️ Ética e Conformidade
-
-- ✅ Dados públicos (processos judiciais)
-- ✅ Anonimização de nomes completos
-- ✅ Transparência sobre erros e incertezas
-- ✅ Código reproduzível e versionado
-- ✅ Conformidade com LGPD
-
----
-
-## 📧 Contato
-
-Para dúvidas ou sugestões sobre este projeto:
-- Email: [seu-email@exemplo.com]
-- GitHub: [link-do-repositorio]
-
----
-
-## 📄 Licença
-
 Este projeto é desenvolvido para fins acadêmicos (Mestrado em Machine Learning).
 
 ---
 
-**Última atualização:** Dezembro 2024
+**Última atualização:** Dezembro 2025
